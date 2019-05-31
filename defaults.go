@@ -89,8 +89,8 @@ var themes = map[string]Theme{
 		HostnameBg: 238,
 
 		HomeSpecialDisplay: true,
-		HomeFg:             0,  // white
-		HomeBg:             172,  // blueish
+		HomeFg:             0,   // black
+		HomeBg:             172, // orangeish
 		AliasFg:            15,  // white
 		AliasBg:            31,  // blueish
 		PathFg:             250, // light grey
